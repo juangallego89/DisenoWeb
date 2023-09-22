@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Roboto';
+    background-color: lightgray; 
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-size: 5rem;
+}
+
+input{
+    width: 350px;
+    height: 35px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin: 10px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+select{
+    width: 350px;
+    height: 35px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin: 10px;
+    margin: auto;
+    display: block;
+    margin: 10px;
+}
+
+label{
+    font-size: 20px;
+    margin: 10px;
+}
+
+#btnEnviar{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 50px;
+    background-color: tomato;
+}
+
+form{
+    border: solid 2px #6d6b6b;
+    border-radius: 8px;
+    text-align: center;
+}
